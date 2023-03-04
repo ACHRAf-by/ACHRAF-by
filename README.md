@@ -42,10 +42,8 @@
  </div>
  </div>
  
- ### :fire: Guthub Stats :
+ ### :fire: Github Stats :
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ACHRAF-by&theme=dark&background=000000)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACHRAF-by&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
