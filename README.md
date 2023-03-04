@@ -12,5 +12,9 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/i/edit/ne/2021/09/logo_java.jpg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 
 
