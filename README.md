@@ -41,6 +41,13 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png"  title="aws" alt="aws" width="50" height="50"/>&nbsp;
  </div>
  </div>
+ 
+ ### :fire: Guthub Stats :
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ACHRAF-by&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACHRAF-by&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
