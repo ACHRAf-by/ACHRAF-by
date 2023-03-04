@@ -1,5 +1,5 @@
 <div align="center">
-  <iframe src="https://giphy.com/embed/FspLvJQlQACXu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a            href="https://giphy.com/gifs/made-by-me-the-it-crowd-FspLvJQlQACXu">via GIPHY</a></p>
+  <img src="https://media0.giphy.com/media/FspLvJQlQACXu/giphy.gif?cid=ecf05e47dc1p3yk73gf4tarr0mm7xi4seamuophdvurm934b&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 # Hi there 👋
