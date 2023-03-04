@@ -8,4 +8,3 @@
 
 
 ## Languages and tools :
-<img src="[path/to/your/image.png](https://user-images.githubusercontent.com/59779853/222908265-ea2d4f73-d154-4f57-b759-d4d20d5402d4.png)" alt="alt text" width="300" height="200">
