@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/life-from-crowd-rcOlpTCkM1GAE" width="480" height="480"/>
+  <img src="http://ministryofbritishcomedy.com/21-questionable-pieces-of-life-advice-from-the-it-crowd/" height="480"/>
 </div>
 
 
