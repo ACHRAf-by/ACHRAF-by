@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://ministryofbritishcomedy.com/21-questionable-pieces-of-life-advice-from-the-it-crowd/" height="480"/>
+  <img src="https://media0.giphy.com/media/rcOlpTCkM1GAE/giphy.gif?cid=ecf05e479jhbnjmldeuseqm4rp6267dzsiw9nevst14aho4x&rid=giphy.gif&ct=g" height="480"/>
 </div>
 
 
