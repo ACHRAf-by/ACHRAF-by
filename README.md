@@ -5,10 +5,10 @@
 
 # Hi there 👋
 
-* I am Achraf BEN YAHYA, apprentice in Software Engineering, DevOps and public Cloud at Axway and student at EFREI.
-* 👀 I am interested in Computer science and especially Backend Dev, DevOps approaches and Data engineering & ML.
-* 📖 Currently, I am learning GoLang, ReasonML, Advanced c#, Kubernetes and Azure & AWS Cloud services
-* 🕵️‍♂️ Fields of interests : CS, Economy (Radical Economy) and Politics
+* I am Achraf BEN YAHYA, a Software Engineer in DevOps and public Cloud at Axway graduated from EFREI.
+* 👀 Passionate about building, automating, and scaling systems - with interests in DevOps, SRE, data engineering, and machine learning.
+* 📖 Currently, I am learning GoLang, Kubernetes and Azure & AWS Cloud services
+* 🕵️‍♂️ Fields of interest: CS, Economy (Alternative Economy) and Politics
 * 💼 You can reach me here -> [Linkedin](https://www.linkedin.com/in/achraf-ben-yahya-1397a61a1/) | <a href="mailto:achraf.benyahya98@gmail.com">Email</a>
 
 ### :hammer_and_wrench: Languages and Tools :
